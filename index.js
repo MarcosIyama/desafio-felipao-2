@@ -21,4 +21,4 @@ if(heroRanking <= 10){
 }
 
 
-console.log("O Herói tem de saldo de " + heroRanking + " vitórias e está no nível: " + heroLevel + ".")
+console.log("O Herói tem saldo de " + heroRanking + " vitórias e está no nível: " + heroLevel + ".")
